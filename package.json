@@ -1,0 +1,19 @@
+{
+  "name": "wp-auto-installer",
+  "version": "1.0.0",
+  "description": "Wordpress auto installer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kafre1/wp-auto-installer.git"
+  },
+  "author": "Kalle Fredlund",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kafre1/wp-auto-installer/issues"
+  },
+  "homepage": "https://github.com/kafre1/wp-auto-installer#readme"
+}
